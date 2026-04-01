@@ -3,10 +3,10 @@
 Proyecto de análisis basado en productos de una tienda.
 
 ## Herramientas
-- Python
+- Python(matplotlib, pandas)
 - Power By(visualizacion)
-- pandas
-- matplotlib
+- SQL
+  
 
 ##  Objetivo
 Analizar datos de las ventas mediante medidas estadisticas como la media, la correlacion entre los producto puediendo encontrar patrones de ventas.
